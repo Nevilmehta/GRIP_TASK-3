@@ -1,4 +1,4 @@
-# Data Analysis Retail Task 3
+# Data Analysis Retail data
 
 This repository contains a retail data analysis project done as part of the GRIP (Graduate Rotational Internship Program) Data Science/Business Analytics task series.
 
